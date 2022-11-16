@@ -1,4 +1,3 @@
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+- [x] Go to school
+- [x] Go to class
+- [ ] Do homework
