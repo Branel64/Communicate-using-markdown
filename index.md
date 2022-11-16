@@ -1,0 +1,3 @@
+- [x] Go to school
+- [x] Go to class
+- [ ] Do homework
